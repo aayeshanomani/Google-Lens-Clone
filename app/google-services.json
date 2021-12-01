@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1064640079449",
+    "project_id": "aryan-project-84dda",
+    "storage_bucket": "aryan-project-84dda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064640079449:android:c4b037a73542d5a6b83348",
+        "android_client_info": {
+          "package_name": "com.example.aryan_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064640079449-41bcj4lt3mg0uvmukfb0sr7uj0rantag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt2UCir41_xOSUog7EkjvdMLBb94UJBTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064640079449-41bcj4lt3mg0uvmukfb0sr7uj0rantag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064640079449:android:7b3fecb285f19d5fb83348",
+        "android_client_info": {
+          "package_name": "com.example.googlelensapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064640079449-41bcj4lt3mg0uvmukfb0sr7uj0rantag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt2UCir41_xOSUog7EkjvdMLBb94UJBTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064640079449-41bcj4lt3mg0uvmukfb0sr7uj0rantag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
