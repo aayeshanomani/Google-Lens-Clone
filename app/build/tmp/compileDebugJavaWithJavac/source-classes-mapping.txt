@@ -1,0 +1,19 @@
+com/example/googlelensapp/DataModal.java
+ com.example.googlelensapp.DataModal
+com/example/googlelensapp/SecondActivity.java
+ com.example.googlelensapp.SecondActivity
+ com.example.googlelensapp.SecondActivity$1
+ com.example.googlelensapp.SecondActivity$2
+ com.example.googlelensapp.SecondActivity$3
+ com.example.googlelensapp.SecondActivity$4
+ com.example.googlelensapp.SecondActivity$5
+ com.example.googlelensapp.SecondActivity$6
+com/example/googlelensapp/MainActivity.java
+ com.example.googlelensapp.MainActivity
+ com.example.googlelensapp.MainActivity$1
+com/example/googlelensapp/SearchResultsRVAdapter.java
+ com.example.googlelensapp.SearchResultsRVAdapter
+ com.example.googlelensapp.SearchResultsRVAdapter$1
+ com.example.googlelensapp.SearchResultsRVAdapter$ViewHolder
+com/example/googlelensapp/BuildConfig.java
+ com.example.googlelensapp.BuildConfig

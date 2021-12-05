@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:background="#F72C25"
+    android:elevation="8dp"
+    app:cardCornerRadius="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FCF6B1"
+        android:orientation="vertical">
+
+        <!--text view for our title-->
+        <TextView
+            android:id="@+id/idTVTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="4dp"
+            android:text="Title"
+            android:textColor="#2D1E2F"
+            android:textSize="15sp" />
+
+        <!--text view for our snippet-->
+        <TextView
+            android:id="@+id/idTVSnippet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="4dp"
+            android:text="Snippet"
+            android:textAllCaps="false"
+            android:textColor="#A9E5BB"
+            android:textSize="12sp" />
+
+        <!--text view for our description-->
+        <TextView
+            android:id="@+id/idTVDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:text="Description"
+            android:textColor="#F72C25"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
